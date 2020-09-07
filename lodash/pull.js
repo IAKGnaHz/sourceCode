@@ -15,6 +15,7 @@ import pullAll from './pullAll.js'
  * @returns {Array} Returns `array`.
  * @see pullAll, pullAllBy, pullAllWith, pullAt, remove, reject
  * @example
+ * 牛皮
  *
  * const array = ['a', 'b', 'c', 'a', 'b', 'c']
  *

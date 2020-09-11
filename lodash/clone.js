@@ -11,7 +11,7 @@ const CLONE_SYMBOLS_FLAG = 4
  * and supports cloning arrays, array buffers, booleans, date objects, maps,
  * numbers, `Object` objects, regexes, sets, strings, symbols, and typed
  * arrays. The own enumerable properties of `arguments` objects are cloned
- * as plain objects. Object inheritance is preserved. An empty object is
+ * as plain objects. Object inheritance is preserved. An em pty object is
  * returned for uncloneable values such as error objects, functions, DOM nodes,
  * and WeakMaps.
  *
